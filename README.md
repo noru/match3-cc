@@ -24,3 +24,5 @@ From there, the game was iterated through a back-and-forth conversation:
 ## Play
 
 [http://blog.xiuz.hu/match3-cc/](http://blog.xiuz.hu/match3-cc/)
+
+![screenshot](screenshot.png)
